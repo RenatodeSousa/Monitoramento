@@ -1,0 +1,6 @@
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\bin\Debug\Modelo.dll
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\obj\Debug\Modelo.dll
+C:\Users\MATRIX\Downloads\Monitoramento\Modelo\obj\Debug\Modelo.pdb

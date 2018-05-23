@@ -1,0 +1,16 @@
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\bin\Debug\Controlador.dll
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\bin\Debug\Controlador.pdb
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\bin\Debug\Modelo.dll
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\bin\Debug\Modelo.pdb
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.dll
+C:\Users\MATRIX\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.pdb
+C:\Users\aluno\Downloads\Monitoramento\Controlador\bin\Debug\Controlador.dll
+C:\Users\aluno\Downloads\Monitoramento\Controlador\bin\Debug\Controlador.pdb
+C:\Users\aluno\Downloads\Monitoramento\Controlador\bin\Debug\Modelo.dll
+C:\Users\aluno\Downloads\Monitoramento\Controlador\bin\Debug\Modelo.pdb
+C:\Users\aluno\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.dll
+C:\Users\aluno\Downloads\Monitoramento\Controlador\obj\Debug\Controlador.pdb
